@@ -82,7 +82,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project demonstrates how to integrate Apache Kafka with .NET applications. This repository provides a simple real-world e-commerce handling order, payments, shipping and notificating processings using Kafka. With procuder and consumer implementations, Docker is used to set up the Kafka environment.
+This project demonstrates how to integrate Apache Kafka with .NET applications. This repository provides a simple real-world e-commerce handling order, payments, shipping and notificating processings using Kafka. With producer and consumer implementations, Docker is used to set up the Kafka environment.
 
 <!--[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
